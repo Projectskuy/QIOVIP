@@ -1,5 +1,5 @@
 {
-"name": "Alwaysaqioo",
+"name": "Drexzz",
 "version": "3.1.0",
 "description": "up",
 "main": "run.js",
@@ -7,7 +7,7 @@
 "scripts": {
 "start": "node qio.js"
 },
-"author": "Alwaysaqioo",
+"author": "Drexzz",
 "license": "MIT",
 "dependencies": {
 "@adiwajshing/keyed-db": "^0.2.4",
